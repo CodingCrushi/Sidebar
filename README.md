@@ -6,13 +6,13 @@ This project is a responsive sidebar created using HTML, CSS, and JavaScript. It
 To use the responsive sidebar, simply clone the project and run the HTML file. You can then customize the styles and themes to fit your needs.
 
 ## Features
-. Responsive design for desktop and mobile
+ - Responsive design for desktop and mobile
 
-. Three different themes to choose from
+ - Three different themes to choose from
 
-. Customizable styles and colors
+ - Customizable styles and colors
 
-. Easy to use and integrate into your project
+ - Easy to use and integrate into your project
 
 ## Credits
 The responsive sidebar was created by Homayoun. If you use this project or have any questions, please feel free to contact me.
