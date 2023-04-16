@@ -15,4 +15,4 @@ To use the responsive sidebar, simply clone the project and run the HTML file. Y
  - Easy to use and integrate into your project
 
 ## Credits
-The responsive sidebar was created by Homayoun. If you use this project or have any questions, please feel free to contact me.
+The responsive sidebar was created by Homayoun. If you use this project or have any questions , please feel free to contact me.
